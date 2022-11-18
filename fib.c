@@ -3,7 +3,7 @@ fibonacci() {
 
   int i, n;
 
-  // initialize first and second terms
+  // initialize first and second terms only
   int t1 = 0, t2 = 1;
 
   // initialize the next term (3rd term)
@@ -24,5 +24,5 @@ fibonacci() {
     nextTerm = t1 + t2;
   }
 
-//  return 0;
+//////////  return 0;
 }
