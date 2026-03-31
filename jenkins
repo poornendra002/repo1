@@ -11,3 +11,10 @@ sudo apt install jenkins
 sudo apt update
 sudo apt install fontconfig openjdk-21-jre
 java -version
+
+
+-----
+
+sudo service jenkins stop
+sudo apt-get remove --purge jenkins
+
