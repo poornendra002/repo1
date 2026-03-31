@@ -38,3 +38,7 @@ brew tap aws/tap
 brew install aws/tap/eksctl
 
 
+-------------
+docker run --rm -it public.ecr.aws/eksctl/eksctl version
+
+
