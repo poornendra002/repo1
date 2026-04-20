@@ -397,3 +397,4 @@ Your Spring Boot application should now be live and accessible.
 | 11 | Node group `jenkins-nodegroup` created | 10 |
 | 12 | Kubernetes deployment successful | 10 |
 | | **Total** | **100** |
+access token : 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
